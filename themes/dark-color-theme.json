@@ -348,6 +348,14 @@
 
 		"editorOverviewRuler.errorForeground": "#FC3E36FF",
 
+		"editorGutter.addedBackground": "#55B155FF",
+
+		"editorGutter.modifiedBackground": "#0078D4FF",
+
+		"editorGutter.deletedBackground": "#DF6262FF",
+
+		"editorGutter.foldingControlForeground": "#DCDCDCFF",
+
 		"editorInfo.foreground": "#55AAFFFF",
 
 		"editorError.foreground": "#FC3E36FF",
@@ -760,10 +768,14 @@
 		},
 
 		// Cpp
-
+				
 		{
 			"scope": "keyword.other.unit.suffix.floating-point.cpp",
 			"settings": { "foreground": "#B5CEA8FF" }
+		},
+		{
+			"scope": "entity.name.scope-resolution.cpp",
+			"settings": { "foreground": "#C8C8C8FF" }
 		},
 		{
 			"scope": "entity.name.function.preprocessor.cpp",
