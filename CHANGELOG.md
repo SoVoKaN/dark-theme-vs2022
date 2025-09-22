@@ -1,5 +1,10 @@
 # What's New?
 
+## 0.0.5
+
+- Add supported languages.
+- Fix golang highlighting.
+
 ## 0.0.4
 
 - Add python support.
