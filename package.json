@@ -2,7 +2,7 @@
     "name": "dark-theme-vs2022",
     "displayName": "Dark Theme VS2022",
     "description": "Dark theme inspired by Visual Studio 2022.",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "SoVoKaN",
     "author": {
         "name": "SoVoKaN",
@@ -43,6 +43,8 @@
         "vs2022",
         "visual",
         "studio",
+        "visual 2022",
+        "studio 2022",
         "visual studio",
         "visual studio 2022",
         "visual studio themes",
