@@ -4,27 +4,7 @@ This extension provides dark color theme inspired by Visual Studio 2022. It incl
 
 For better experience you should install "Cascadia Mono" font [here](https://github.com/microsoft/cascadia-code).
 
-<details open>
-    <summary><b>Supported languages</b></summary>
-
-    | Language |   Status   |
-    |----------|------------|
-    | С/C++    |   Full✅   |
-    | C#       |   Full✅   |
-    | Go       |   Full✅   |
-    | Java     |  Planned❌ |
-    | Python   |   Full✅   |
-    | HTML     |   Full✅   |
-    | CSS      |  Planned❌ |
-    | JS       |  Planned❌ |
-    | TS       |  Planned❌ |
-    | Shell    |   Full✅   |
-    | CMake    |   Full✅   |
-    | Markdown |  Planned❌ |
-    | SQL      |  Planned❌ |
-    | JSON     |   Full✅   |
-    | XML      |   Full✅   |
-</details>
+[`supported-languages.md`](./docs/supported-languages.md) &ndash; A list of supported languages is available.
 
 ## Images
 
